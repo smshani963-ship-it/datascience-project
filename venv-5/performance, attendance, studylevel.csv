@@ -1,0 +1,6 @@
+performance, attendance, studylevel, result
+low, poor, low, pass
+low, average, low, fail
+low, medium, high, pass
+high, poor, low, pass
+low, average, high, fail
